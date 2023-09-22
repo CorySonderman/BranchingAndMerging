@@ -1,2 +1,3 @@
 I love to code
 Today is Friday
+ This is line 3 on test
